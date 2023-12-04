@@ -1,1 +1,1 @@
-nueva carpeta
+Carpeta de las practicas calificadas enseñadas y ministradas por la ONG FUNVAL.
